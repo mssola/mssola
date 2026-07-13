@@ -6,7 +6,8 @@ can check my profile in CV format [here](https://jo.mssola.com/en/cv.html).
 I mainly use Github to work on projects for [SUSE](https://github.com/SUSE/) and
 [openSUSE](https://github.com/openSUSE). Otherwise, I'm (slowly) migrating my
 personal projects away from Github to [my own Git
-instance](https://git.mssola.com). You can check some of the highlights below.
+instance](https://git.mssola.com). See below for some projects I've been working
+on.
 
 Low level:
 - Linux kernel: see the [list of emails and patches](https://lore.kernel.org/all/?q=Miquel+Sabat%C3%A9+Sol%C3%A0) I have sent, and the [list of commits](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Miquel+Sabat%C3%A9+Sol%C3%A0) which have been accepted into the mainline repository.
