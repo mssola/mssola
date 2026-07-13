@@ -17,6 +17,7 @@ Low level:
 NES/Famicom development:
 - [jetpac.nes](https://github.com/mssola/jetpac.nes): Port to the NES/Famicom of "Jetpac" from Ashby Computers and Graphics Limited.
 - [tools.nes](https://github.com/mssola/tools.nes): Tools for NES/Famicom development, including an assembler.
+- [code.nes](https://github.com/mssola/code.nes): A bunch of samples covering different topics on NES/Famicom development.
 - [list.nes](https://github.com/mssola/list.nes): A small library to maintain big lists on the NES/Famicom.
 - [aoc2023.nes](https://github.com/mssola/aoc2023.nes): Unfinished run of the Advent of Code 2023.
 
