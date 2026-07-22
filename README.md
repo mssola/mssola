@@ -4,10 +4,9 @@ I'm Miquel, a software engineer working at [SUSE](https://www.suse.com/). You
 can check my profile in CV format [here](https://jo.mssola.com/en/cv.html).
 
 I mainly use Github to work on projects for [SUSE](https://github.com/SUSE/) and
-[openSUSE](https://github.com/openSUSE). Otherwise, I'm (slowly) migrating my
-personal projects away from Github to [my own Git
-instance](https://git.mssola.com). See below for some projects I've been working
-on.
+[openSUSE](https://github.com/openSUSE). Otherwise, I've migrated my personal
+projects away from Github to [my own Git instance](https://git.mssola.com). See
+below for some projects I've been working on.
 
 Low level:
 - Linux kernel: see the [list of emails and patches](https://lore.kernel.org/all/?q=Miquel+Sabat%C3%A9+Sol%C3%A0) I have sent, and the [list of commits](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Miquel+Sabat%C3%A9+Sol%C3%A0) which have been accepted into the mainline repository.
@@ -27,5 +26,8 @@ Misc:
 - [dotfiles](https://github.com/mssola/dotfiles): My own dotfiles.
 - [mihi](https://github.com/mssola/mihi): A self assessment tool for learning Latin.
 - [useragent](https://github.com/mssola/useragent): HTTP User Agent parser for the Go programming language.
+
+If you want to contribute to any of my projects, I've written a [small
+summary](https://jo.mssola.com/en/contributing.html) on how to do so.
 
 And that's all. See ya!
