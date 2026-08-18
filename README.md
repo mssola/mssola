@@ -24,7 +24,6 @@ NES/Famicom development:
 Misc:
 - [operum](https://github.com/mssola/operum): Application that keeps track of all your sources (i.e. books, papers, articles).
 - [dotfiles](https://github.com/mssola/dotfiles): My own dotfiles.
-- [mihi](https://github.com/mssola/mihi): A self assessment tool for learning Latin.
 - [useragent](https://github.com/mssola/useragent): HTTP User Agent parser for the Go programming language.
 
 If you want to contribute to any of my projects, I've written a [small
